@@ -1,0 +1,15 @@
+C:\Users\r0m4i\OneDrive\Документы\Git\GeekBrains\Lessons_С_sharp\seminars\hw7_seminar7\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+C:\Users\r0m4i\OneDrive\Документы\Git\GeekBrains\Lessons_С_sharp\seminars\hw7_seminar7\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r0m4i\OneDrive\Документы\Git\GeekBrains\Lessons_С_sharp\seminars\hw7_seminar7\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+C:\Users\r0m4i\OneDrive\Документы\Git\GeekBrains\Lessons_С_sharp\seminars\hw7_seminar7\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+C:\Users\r0m4i\OneDrive\Документы\Git\GeekBrains\Lessons_С_sharp\seminars\hw7_seminar7\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\r0m4i\OneDrive\Документы\Git\GeekBrains\Lessons_С_sharp\seminars\hw7_seminar7\Task1\bin\Debug\net6.0\Task1.exe
+C:\Users\r0m4i\OneDrive\Документы\Git\GeekBrains\Lessons_С_sharp\seminars\hw7_seminar7\Task1\bin\Debug\net6.0\Task1.deps.json
+C:\Users\r0m4i\OneDrive\Документы\Git\GeekBrains\Lessons_С_sharp\seminars\hw7_seminar7\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+C:\Users\r0m4i\OneDrive\Документы\Git\GeekBrains\Lessons_С_sharp\seminars\hw7_seminar7\Task1\bin\Debug\net6.0\Task1.dll
+C:\Users\r0m4i\OneDrive\Документы\Git\GeekBrains\Lessons_С_sharp\seminars\hw7_seminar7\Task1\bin\Debug\net6.0\Task1.pdb
+C:\Users\r0m4i\OneDrive\Документы\Git\GeekBrains\Lessons_С_sharp\seminars\hw7_seminar7\Task1\obj\Debug\net6.0\Task1.dll
+C:\Users\r0m4i\OneDrive\Документы\Git\GeekBrains\Lessons_С_sharp\seminars\hw7_seminar7\Task1\obj\Debug\net6.0\refint\Task1.dll
+C:\Users\r0m4i\OneDrive\Документы\Git\GeekBrains\Lessons_С_sharp\seminars\hw7_seminar7\Task1\obj\Debug\net6.0\Task1.pdb
+C:\Users\r0m4i\OneDrive\Документы\Git\GeekBrains\Lessons_С_sharp\seminars\hw7_seminar7\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+C:\Users\r0m4i\OneDrive\Документы\Git\GeekBrains\Lessons_С_sharp\seminars\hw7_seminar7\Task1\obj\Debug\net6.0\ref\Task1.dll
